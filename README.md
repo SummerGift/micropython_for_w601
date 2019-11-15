@@ -45,7 +45,7 @@ W601 IoT Board MicroPython 固件硬件功能如下所示：
 
 ### 下载合适的固件
 
-- [Pandora IoT Board firmware](https://www.rt-thread.org/qa/forum.php?mod=viewthread&tid=12305&extra=page%3D1%26filter%3Dtypeid%26typeid%3D20)
+- [W601 IoT Board firmware](https://www.rt-thread.org/qa/forum.php?mod=viewthread&tid=12305&extra=page%3D1%26filter%3Dtypeid%26typeid%3D20)
 
 ### 安装 IDE 开发环境
 
